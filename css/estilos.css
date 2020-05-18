@@ -1,0 +1,13 @@
+section {
+    color: white;
+    background-color: black;
+    height: 100%;
+    border-radius: 3px;
+    padding: 1.5em;
+    font-family: sans-serif;
+}
+
+header h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
