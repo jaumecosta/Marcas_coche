@@ -7,5 +7,7 @@
                 
               }
               console.log("Nombre: " + nombre +  " Marcas que ha usado: " + marcas);
+              document.write("Nombre: " + nombre + "Marcas que ha usado: " + marcas);
+
     
   
